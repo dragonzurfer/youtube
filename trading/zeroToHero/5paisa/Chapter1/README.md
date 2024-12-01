@@ -5,7 +5,6 @@
 - Login to [xstream-5paisa](https://xstream.5paisa.com/)
 
 ## Setup time based OTP (TOTP)
-![alt text](main/trading/zeroToHero/5paisa/Chapter1/assets/image.png)
 - Login to 5paisa and go to profile to setup TOTP
 - [Detailed steps](https://forum.5paisa.com/portal/en/community/topic/introducing-a-time-based-one-time-password-totp-for-quick-logins)
 - For saving TOTP one can use [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_IN&pli=1) or [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis&hl=en_IN) from playstore.
